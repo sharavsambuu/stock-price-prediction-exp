@@ -113,3 +113,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+ta-lib-0.4.0-src.tar.gz
+ta-lib/
