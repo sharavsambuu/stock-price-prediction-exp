@@ -41,7 +41,6 @@ pandocfilters==1.4.2
 parso==0.3.1
 pexpect==4.6.0
 pickleshare==0.7.5
-pkg-resources==0.0.0
 prometheus-client==0.5.0
 prompt-toolkit==2.0.7
 protobuf==3.6.1
@@ -60,7 +59,7 @@ six==1.12.0
 sklearn==0.0
 TA-Lib==0.4.17
 tensorboard==1.12.1
-tensorflow-gpu==1.12.0
+tensorflow==1.12.0
 termcolor==1.1.0
 terminado==0.8.1
 testpath==0.4.2
